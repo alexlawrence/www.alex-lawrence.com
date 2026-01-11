@@ -6,5 +6,5 @@ type: "page"
 
 <section class="address">{{< obfuscated "Alexander Lawrence<br>Karotschstr. 14b<br>81829 Munich" >}}</section>
 
-E-Mail: <a class="e-mail" href="#">{{< obfuscated "mail@alex-lawrence.com">}}</a>
+E-Mail: <a class="e-mail" href="#">{{< obfuscated "contact@alex-lawrence.com">}}</a>
 
