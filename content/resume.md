@@ -3,9 +3,16 @@ title: "Resume"
 type: "page"
 ---
 
-#### Book Author (2022 - now)
+#### Book Author - [Message- and Event-Driven Systems with CQRS and Event Sourcing: Web and Cloud Architecture](https://www.amazon.de/Message-Event-Driven-Systems-Event-Sourcing-ebook/dp/B0GX371XNT) (2022 - 2026)
 
-Currently authoring a book on message-driven systems with a renowned US publisher.
+Authored the book "Message- and Event-Driven Systems with CQRS and Event Sourcing: Web and Cloud Architecture"
+for the [Vaughn Vernon Addison-Wesley Signature Series](https://www.informit.com/imprint/series_detail.aspx?ser=7937178) published by Pearson.
+
+<hr />
+
+#### (Staff) Software Engineer - [Personio](https://www.personio.de) (2024 - today)
+
+Currently working as a leading engineer within a team focused on the core offerings of Personio.
 
 <hr />
 
@@ -17,13 +24,13 @@ Planned and produced a video series around DDD, CQRS, and Event Sourcing for a m
 
 #### Book Author - [Implementing DDD, CQRS and Event Sourcing](https://leanpub.com/implementing-ddd-cqrs-and-event-sourcing) (2016 - 2022)
 
-Authored the book "Implementing DDD, CQRS and Event Sourcing" with around 900 sold copies.
+Authored the book "Implementing DDD, CQRS and Event Sourcing" with over 1000 sold copies.
 
 <hr />
 
 #### Technical Lead, Sofware Architect - [Personio](https://www.personio.de) (2021 - 2023)
 
-Co-architected and built critical part of payroll product with a bi-temporal domain model.
+Co-architected and built critical part of payroll product using a bi-temporal domain model.
 Supported with building initial version of system-wide platform to facilitate data replication through Event-carried State Transfer.
 Authored and reviewed numerous design documents for critical architectural changes.
 Acted as technical lead, mentor, and multiplier for other engineers.
@@ -33,7 +40,7 @@ Acted as technical lead, mentor, and multiplier for other engineers.
 #### Developer, Frontend Architect, Consultant - [Personio](https://www.personio.de) (2019 - 2020)
 
 Started with working on global design and UX improvements.
-Continued with implementing first Micro-Frontends.
+Continued with implementing the first Micro-Frontends.
 Supported with full-stack feature development in the recruiting area.
 Joined separate team to build initial version of a design system.
 Repeatedly consulted on Event-Driven Architecture, DDD, CQRS, and Event Sourcing.
@@ -81,7 +88,8 @@ Supported operations with containerization and orchestration.
 
 #### Lecturer at University - [University of Applied Sciences Augsburg](http://www.hs-augsburg.de) (2014 - 2015)
 
-Lecturer for the subject "Multimedia Programming" in the third semester of the studies "Interactive Media". Covered topics: JavaScript fundamentals, web technologies, essential design patterns.
+Lecturer for the subject "Multimedia Programming" in the third semester of the studies "Interactive Media".
+Covered topics: JavaScript fundamentals, web technologies, essential design patterns.
 
 <hr />
 
@@ -119,7 +127,8 @@ The projects ranged from small websites using a custom headless CMS to larger pl
 
 #### Tutor for different subjects - [University of Applied Sciences Augsburg](http://www.hs-augsburg.de) (2006 - 2010)
 
-Tutor for the subjects Programming with Java/J2SE, Multimedia Programming with Flash/ActionScript3/Flex, and Databases with PostgreSQL. Guided up to 30 students per semester.
+Tutor for the subjects Programming with Java/J2SE, Multimedia Programming with Flash/ActionScript3/Flex, and Databases with PostgreSQL.
+Guided up to 30 students per semester.
 
 <hr />
 
