@@ -9,7 +9,7 @@ aliases:
 ## Message- and Event-Driven Systems with CQRS and Event Sourcing: Web and Cloud Architecture
 
 <section class="showcase">
-  <a class="showcase-image" href="https://www.amazon.de/Message-Event-Driven-Systems-Event-Sourcing-ebook/dp/B0GX371XNT">
+  <a class="showcase-image" href="https://www.amazon.com/Message-Event-Driven-Systems-Event-Sourcing/dp/0137998619">
     <img src="/images/message-and-event-driven-systems.jpg">
   </a>
   <section>
